@@ -12,3 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Hibernate](https://hibernate.org)
 - JPA
 - Oracle Database
+
+## Modelagem Banco de Dados
+
+<img src="SigmaSong-UML.jpeg" alt="modelagem banco de dados"/>
