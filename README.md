@@ -10,3 +10,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Java](https://www.java.com)
 - [Maven](https://maven.apache.org)
 - [Hibernate](https://hibernate.org)
+- [JPA]
+- [Oracle Database]
